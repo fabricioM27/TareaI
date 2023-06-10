@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TareaI</string>
+    <string name="btnsuma">Suma</string>
+    <string name="btnresta">Resta</string>
+    <string name="btnmulti">Multiplicacion</string>
+    <string name="btndivi">Divicion</string>
+</resources>
